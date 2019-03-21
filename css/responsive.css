@@ -1,0 +1,223 @@
+@media only screen and (max-width: 800px){
+
+header {padding: 40px 0;}
+.header_section {
+	height: 380px;
+}
+.hd_left {width: 17%;}
+.hd_right ul li a {padding: 5px 5px;font-size: 14px;}
+.hd_btn {
+	padding: 60px 0;
+}
+.hd_btn h2 {
+	font-size: 2rem;
+}
+.hd_btn h4 {
+	margin-top: 1.5rem;
+}
+.hd_btn p {
+	padding-top: 1.5rem;
+}
+.nav_service {
+	padding: 40px 0;
+}
+.nav_service h2 {
+	font-size: 2rem;
+	margin-bottom: 1.5rem;
+}
+.nav_service h6 {
+	margin-bottom: 3rem;
+}
+.nav_sev_pst i {
+	font-size: 2rem;
+	margin-bottom: 1rem;
+}
+.nav_sev_pst h4 {
+	font-size: 1rem;
+	margin-bottom: 10px;
+}
+.nav_sev_pst p {
+	font-size: 14px;
+}
+.expert_1 {
+	padding: 6% 0% 6% 7%;
+	text-align:center;
+}
+.expert_1 h2 {
+	margin-bottom: 1rem;
+	font-size: 1.5rem;
+}
+.custom_pst h4 {
+	font-size: 1rem;
+}
+.expert_1 p {
+	width: 100%;
+	font-size: 14px;
+	margin-bottom: 1.5rem;
+}
+.custom_i i {
+	font-size: 1.2rem;
+}
+.custom_i {
+	float: none;
+	width: 100%;
+	text-align: center;
+}
+.custom_pst {
+	float: none;
+	width: 100%;
+	text-align: center;
+}
+.custom_i i {
+	font-size: 1.2rem;
+	margin-bottom: 10px;
+}
+.amazing_post h2 {
+	font-size: 1.5rem;
+	margin-bottom: 1rem;
+}
+.amazing_post p {
+	font-size: 14px;
+	margin-bottom: 10px;
+}
+.amz_1 {
+	display:block;
+	float: none; 
+	width: 100%;
+	text-align: center;
+	margin-bottom:10px;
+}
+.about_section h2 {
+	font-size: 2.5rem;
+	margin-bottom: 1.5rem;
+}
+.amz_2 {
+	display:block;
+	float: none;
+	width: 100%;
+	text-align: center;
+}
+.about_img img,.about_s_img img {
+	width: 150px;
+	height: 150px;
+}
+.about_img {
+	width: 50%;
+}
+.about_pst {
+	width: 50%;
+	padding: 0px 20px;
+}
+.about_s_img {
+	width: 50%;
+}
+.about_s_post {
+	width: 50%;
+	padding: 0 20px;
+}
+.about_l_pst_1 {
+	width: 150px;
+	height: 150px;
+	padding: 15px 20px;
+}
+.about_l_pst_1 h4 {
+	font-size: 1rem;
+	line-height: 25px;
+}
+.team_bg {
+	padding: 60px 0;
+}
+.team_post img {
+	width: 150px;
+	height: 150px;
+	margin-bottom: 16px;
+}
+.team_post h4 {
+	font-weight: 700;
+	font-size: 1.1rem;
+	margin-bottom: 5px;
+	color: #222;
+}
+.team_post h6 {
+	font-size: .9rem;
+	margin-bottom: 20px;
+}
+.team_section p {
+	font-size: .9rem;
+}
+.team_social i {width: 35px;height: 35px;}
+.contact_sction p {width: 100%;font-size: 14px;}
+.contact_frm {margin-top: 18px;}
+
+}
+
+
+@media only screen and (max-width: 414px){
+.hd_left {
+	width: 100%;
+	float:none;
+	text-align: center;
+}
+.hd_right {
+	float: none;
+	width: 100%;
+}
+.hd_right ul li a {
+	font-size: 12px;
+	margin-top: 20px;
+}
+.hd_right ul li a {
+	padding: 5px 6px;
+}
+.hd_btn h2 {
+	width: 100%;
+	font-size: 1.2rem;
+}
+.hd_btn p {
+	width: 100%;
+	padding-top: 1rem;
+	font-size: .9rem;
+	line-height: 25px;
+}
+header {
+	padding: 32px 0;
+}
+.hd_btn {
+	padding: 40px 0;
+}
+.hd_btn h4 {
+	width: 80px;
+	margin-top: 1rem;
+}
+.header_section {
+	height: 350px;
+}
+.nav_service h2 {
+	font-size: 1.5rem;
+	margin-bottom: 1rem;
+}
+.col{
+	width:100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
